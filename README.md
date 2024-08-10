@@ -75,6 +75,9 @@ so the impact on prices comes most from where it located or thier space.
 - There are a high numbers of apartments that has no lounges because most of Riyadh residents are here work and they don't wan't to put extra money to have a lounge in thier apartements.
 
 
+<img src="mLounge.png" alt="Bar-chart" width="300"/>
+
+
 
 
 
