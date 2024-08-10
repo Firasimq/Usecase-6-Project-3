@@ -75,9 +75,22 @@ so the impact on prices comes most from where it located or thier space.
 - There are a high numbers of apartments that has no lounges because most of Riyadh residents are here work and they don't wan't to put extra money to have a lounge in thier apartements.
 
 
-<img src="mLounge.png" alt="Bar-chart" width="300"/>
+<img src="landnig.png" alt="Bar-chart" width="300"/>
 
+- Al Nakheel neighborhood is the lead by difference as expected if we add the second and third position we will not reach Al Nakheel neighborhood. 
 
+<img src="landregion.png" alt="Bar-chart" width="300"/>
 
+- As we see the difference between them are very close which tells us if you want to buy or infest in Riyadh you must have at least 6M.
+
+<img src="vilas top ten north.png" alt="Bar-chart" width="300"/>
+
+- As we see that neighborhoods from the east distract in the top 3 except Al Nakheel neighborhoods is from north, but the rest of the top 10 are all from the north which is something usual.
+
+<img src="vilasregion.png" alt="Bar-chart" width="300"/>
+
+- This chart is comparison between north and east districts, the north is expensive more than east by almost double.
+
+  
 
 
