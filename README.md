@@ -50,8 +50,29 @@ We changed some of the data types, and we get rid of the outliers.
 
 <img src="mFactors.png" alt="Heatmap" width="300"/>
 
--the space is the most signficant factor that con impact the prices,
+- The space is the most signficant factor that con impact the prices,
 meanwhile, most of the customers doesn't care if there is an elvator in the propraty they are intersted in.
+
+<img src="mRegion.png" alt="Bar-chart" width="300"/>
+
+- Most of the prices in riaydh are high and the east part has the biggest share
+
+<img src="mEast.png" alt="Bar-chart" width="300"/>
+
+- The king fahad neighborhood has the lowest prices becuase it is still under construction.
+
+ <img src="mNorth.png" alt="Bar-chart" width="300"/>
+
+ - The high prices on alnakhel and alshafah niebrhoods are becuase they are near to KAFD and Boulevard World.
+
+<img src="mRooms.png" alt="Bar-chart" width="300"/>
+
+- There is no big diffrence on prices if the apartmnet include one room or six rooms,
+so the impact on prices comes most from where it located or thier space.
+
+<img src="mLounge.png" alt="Bar-chart" width="300"/>
+
+- There are a high numbers of apartments that has no lounges because most of Riyadh residents are here work and they don't wan't to put extra money to have a lounge in thier apartements.
 
 
 
