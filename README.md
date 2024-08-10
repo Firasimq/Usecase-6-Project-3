@@ -48,9 +48,10 @@ We changed some of the data types, and we get rid of the outliers.
 
 # Describe the final ten insights with their charts:
 
-<img src="Q01.png" alt="most-exp-villa" width="300"/>
+<img src="mFactors.png" alt="Heatmap" width="300"/>
 
-
+-the space is the most signficant factor that con impact the prices,
+meanwhile, most of the customers doesn't care if there is an elvator in the propraty they are intersted in.
 
 
 
